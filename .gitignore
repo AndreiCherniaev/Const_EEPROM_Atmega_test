@@ -46,7 +46,13 @@
 *.mod*
 *.cmd
 .tmp_versions/
+.generated_files/
+*/nbproject/private/
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.eep
+*.lss
+/EEPROM_test.X/build/
+/EEPROM_test.X/dist/
